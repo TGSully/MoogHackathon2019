@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{BF625560-98B1-9AF9-8D1B-7205DFADC745}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/listener.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/circles.cs">
     <Files>
       <File FileName="Assets/Rotate.cs" Line="7" Column="18" />
-      <File FileName="Assets/collisionDetection.cs" Line="34" Column="25" />
+      <File FileName="Assets/collisionDetection.cs" Line="35" Column="27" />
       <File FileName="Assets/noteGridMaker.cs" Line="12" Column="33" />
-      <File FileName="Assets/Resources/listener.cs" Line="21" Column="2" />
+      <File FileName="Assets/Resources/listener.cs" Line="12" Column="34" />
+      <File FileName="Assets/circles.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
